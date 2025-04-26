@@ -17,8 +17,6 @@
 
 ---
 
-## 🛠️ Tools & Technologies
-
 <h1 align="center">Hi 👋, I'm Rihas</h1>
 <h3 align="center">Mechanical Engineer ➔ Data Analyst | Passionate about Data, Automation & AI</h3>
 
@@ -39,7 +37,7 @@
 ---
 
 ## 🛠️ Tools & Technologies
-## 🛠️ Languages and Tools
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
@@ -54,18 +52,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rihaas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
-<p align="center">
-  <em>✨ "From building machines to building insights — every step is a new story!" ✨</em>
-</p>
-
----
 
 ## 📈 GitHub Stats
 <p align="center">
