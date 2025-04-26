@@ -1,22 +1,20 @@
-
-
 <h1 align="center">Hi 👋, I'm Rihas</h1>
 <h3 align="center">Mechanical Engineer Turned Data Analyst | Passionate about Data, Automation, and AI</h3>
 
 ---
 
-### 🌟 About Me:
+## 🌟 About Me
 
-- 🎓 Former Mechanical Engineer who transitioned into **Data Analytics** and **Automation**.
-- 🚀 Currently sharpening skills in **Power BI, SQL, Python, Alteryx, Power Automate, HTML**, and **AI**.
-- 🎨 Exploring UI/UX design using **Figma** to build better dashboards and applications.
-- 🌱 Life-long learner, always curious to explore new technologies.
-- 💬 Ask me about **Data Analytics, BI, Automation, and Process Optimization**.
+- 🎓 Former Mechanical Engineer transitioned into **Data Analytics** and **Automation**.
+- 🚀 Currently learning **Power BI, SQL, Python, Alteryx, Power Automate, HTML**, and **AI**.
+- 🎨 Exploring **UI/UX design** with **Figma** for better dashboards and applications.
+- 🌱 Life-long learner, passionate about new technologies.
+- 💬 Ask me about **Data Analytics, BI, Automation**, and **Process Optimization**.
 - 📫 Reach me at: [rihas@example.com](mailto:rihas@example.com)
 
 ---
 
-### 🤝 Connect with Me:
+## 🤝 Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/rihas-profile" target="_blank">
@@ -26,27 +24,27 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+## 🛠️ Languages and Tools
 
-#### 📊 Data Analytics and Business Intelligence:
+### 📊 Data Analytics and BI
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Alteryx-003B71?style=for-the-badge&logo=alteryx&logoColor=white" alt="Alteryx" />
 </p>
 
-#### ⚙️ Automation:
+### ⚙️ Automation
 <p>
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=Microsoft%20Power%20Automate&logoColor=white" alt="Power Automate" />
 </p>
 
-#### 🧠 Programming & AI:
+### 🧠 Programming & AI
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-00BFFF?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
 </p>
 
-#### 🌐 Web Technologies & Design:
+### 🌐 Web Technologies & Design
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -54,7 +52,7 @@
 
 ---
 
-### 📈 GitHub Stats:
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rihaas&show_icons=true&theme=tokyonight" alt="Rihas' GitHub Stats" />
