@@ -1,9 +1,4 @@
-<h1 align="center">Welcome to My GitHub! 👋</h1>
-<p align="center">
-  <em>"Engineer by education, Analyst by passion, and a Student for life!"</em>
-</p>
 
----
 
 <h1 align="center">Hi 👋, I'm Rihas</h1>
 <h3 align="center">Mechanical Engineer Turned Data Analyst | Passionate about Data, Automation, and AI</h3>
