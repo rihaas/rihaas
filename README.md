@@ -3,24 +3,6 @@
 
 ---
 
-## 🌟 About Me
-- 🎓 Ex-Mechanical Engineer turned **Data Analyst** & **Automation Enthusiast**.
-- 🚀 Learning **Power BI**, **SQL**, **Python**, **Alteryx**, **Power Automate**, **HTML**, and **AI**.
-- 🎨 Exploring **Figma** for UI/UX-driven dashboards & apps.
-- 💬 Talk to me about **Data Analytics, BI, Automation, and Optimization**.
-- 📫 Reach me: [rihas.docs@gmail.com](mailto:rihas.docs@gmail.com)
-
----
-
-## 🤝 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihasahmd/)
-
----
-
-<h1 align="center">Hi 👋, I'm Rihas</h1>
-<h3 align="center">Mechanical Engineer ➔ Data Analyst | Passionate about Data, Automation & AI</h3>
-
----
 
 ## 🌟 About Me
 - 🎓 Ex-Mechanical Engineer turned **Data Analyst** & **Automation Enthusiast**.
