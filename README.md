@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-  <em>✨ "From building machines to building insights — every step is a new story!" ✨</em>
+  <em>✨ "From machines to insights — turning every step into a story!" ✨</em>
 </p>
