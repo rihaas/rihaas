@@ -10,14 +10,14 @@
 - 🎨 Exploring **UI/UX design** with **Figma** for better dashboards and applications.
 - 🌱 Life-long learner, passionate about new technologies.
 - 💬 Ask me about **Data Analytics, BI, Automation**, and **Process Optimization**.
-- 📫 Reach me at: [rihas@example.com](mailto:rihas@example.com)
+- 📫 Reach me at: [rihas.docs@gmail.com](mailto:rihas.docs@gmail.com.com)
 
 ---
 
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/rihas-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/rihasahmd/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
