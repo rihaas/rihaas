@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rihas</h1>
 
 <h3 align="center">Mechanical Engineer ➔ Data Analyst | Passionate about Data, Automation & AI</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rihaas" alt="Profile views" /> </p>
+
 
 ---
 
