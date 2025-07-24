@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-- 🎓 Ex-Mechanical Engineer turned **Data Analyst** & **Automation Enthusiast**
+- 🎓 Mechanical Engineer turned **Data Analyst** & **Automation Enthusiast**
 - 🚀 Learning: **Power BI**, **SQL**, **Python**, **Alteryx**, **Power Automate**, **HTML**, **AI**
 - 🎨 Exploring **Figma** for UI/UX-driven dashboards & apps
 - 💬 Ask me about **Data Analytics**, **BI**, **Automation**, and **Optimization**
