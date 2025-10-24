@@ -8,12 +8,10 @@
 ---
 
 ## 🌟 About Me
-
-- 🎓 Mechanical Engineer turned **Data Analyst** & **Automation Enthusiast**
-- 🚀 Learning: **Power BI**, **SQL**, **Python**, **Alteryx**, **Power Automate**, **HTML**, **AI**
-- 🎨 Exploring **Figma** for UI/UX-driven dashboards & apps
-- 💬 Ask me about **Data Analytics**, **BI**, **Automation**, and **Optimization**
-- 📫 Reach me: [rihas.docs@gmail.com](mailto:rihas.docs@gmail.com)
+- 🤖 A curious **Mechanical Engineer** turned **Data Analyst**  
+- 📊 Passionate **Automation Enthusiast** with a love for optimization  
+- 🧠 **AI Generalist** focused on real-world problem solving  
+- 🚀 Expanding my skills to bridge engineering, data, and AI through continuous learning
 
 ---
 
@@ -44,7 +42,7 @@
 </p>
 
 ---
-
+<!--
 ## 📌 Projects Showcase
 
 ### 📊 Sales Dashboard in Power BI
@@ -58,6 +56,9 @@
 - 🔌 Integrated SharePoint, Outlook, Excel using scheduled flows  
 - 🧰 Tools: Power Automate, Excel Online, Outlook API  
 - 🔗 [View Project](https://github.com/rihaas/PowerAutomate_Reporting_Automation)
+'
+-->
+
 
 ---
 
@@ -71,6 +72,7 @@
 
 ---
 
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -90,3 +92,4 @@
 <p align="center">
   <em>✨ "From machines to insights — turning every step into a story!" ✨</em>
 </p>
+-->
